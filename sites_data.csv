@@ -1,0 +1,6 @@
+domain,site,description
+AI Agent Frameworks,github.com/openai/swarm,OpenAI Swarm documentation for lightweight multi-agent orchestration
+AI Operations,docs.agentops.ai,AgentOps documentation for testing debugging and deploying AI agents and LLM apps
+AI Data Frameworks,docs.llamaindex.ai,LlamaIndex documentation for building LLM-powered agents over your data
+Python Docs,docs.python.org,Official Python documentation
+FastAPI Docs,fastapi.tiangolo.com,FastAPI framework documentation

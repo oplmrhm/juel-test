@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+google-generativeai
+langchain
+tavily-python
+beautifulsoup4
+requests
+# Add other specific langchain packages if needed, e.g., langchain-google-genai
